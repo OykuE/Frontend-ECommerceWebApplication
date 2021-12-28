@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  width: 100%;
+  background-color: whitesmoke;
+}
+
+.main.container {
+  margin: 0 auto;
+  text-align: center;
+}
